@@ -1,2 +1,3 @@
-# pyproxy
-http, socks4, and you can find proxy as you want in the form of socks5 
+# Screenshot 
+<a href="https://ibb.co/RY0CB73"><img src="https://i.ibb.co/NtjLm79/PyProxy.jpg" alt="PyProxy" border="0"></a>
+
